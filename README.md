@@ -1,5 +1,5 @@
 ## Olá, Sou Victor Santana! 👋
-### :computer: Sou estudante de Desenvolvimento de sistema.
+### :computer: Sou Estudante de Análise e Desenvolvimento de sistema.
 <br>
  <div>
   <a href="https://github.com/victorsantanna">
