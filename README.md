@@ -2,10 +2,14 @@
 ### :computer: Sou Estudante de Análise e Desenvolvimento de Sistema.
 <br>
  <div>
- <img align="left" height="365em" width="350" alt="digitando" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
-  <a href="https://github.com/victorsantanna">
+   <img align="left" height="365em" width="350" alt="digitando" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
+   <a href="https://github.com/victorsantanna">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&theme=dracula&hide_langs_below=1" />
+</a>
+ </div>
 
 <br>
 <div style="display: inline_block"><br>
@@ -19,6 +23,9 @@
  </div>
 
 <!--
+ <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&theme=dracula&hide_langs_below=1" />
+</a>
 <p align='center'>
  <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=victorsantanna&theme=dracula" alt="victor" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna"/>
