@@ -19,6 +19,9 @@
   <img align="center" alt="Python" height="60" width="60" src="https://devicons.railway.app/i/python.svg">
  </div>
 
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=victorsantanna&&style=flat-square" align="center" />
+</div> 
 <!--
  <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&theme=dracula&hide_langs_below=1" />
