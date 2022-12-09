@@ -4,8 +4,8 @@
  <div>
    <img align="left" height="365em" width="350" alt="digitando" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
    <a href="https://github.com/victorsantanna">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&layout=compact&langs_count=16&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&layout=compact&langs_count=16&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  </div>
 
 <br>
