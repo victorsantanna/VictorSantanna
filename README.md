@@ -17,6 +17,7 @@
   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="60" width="60" src="https://devicons.railway.app/i/python.svg">
+ <img align="center" alt="Vue" height="60" width="60" src="https://devicons.railway.app/i/python.svg">
  </div>
 
 
