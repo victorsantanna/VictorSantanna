@@ -5,7 +5,7 @@
    <a href="https://github.com/victorsantanna">
    <img align="left" height="365em" width="350" alt="digitando" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantanna&layout=compact&langs_count=16&theme=github_dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
  </div>
 
 <br>
@@ -22,6 +22,8 @@
 
 
 <!--
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantanna&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorsantanna&theme=github_dark"/>
       <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorsantanna&theme=github_dark"/> 
  <div align="center">
